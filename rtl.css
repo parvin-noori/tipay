@@ -1,0 +1,346 @@
+body {
+  direction: rtl;
+  text-align: right;
+  font-family: 'Vazir',YekanBakh; }
+
+.phone-number i {
+  margin-left: 0;
+  margin-right: 1rem; }
+
+.site-header .site-header__right
+.last-news .icon-last-news i:after {
+  right: 0;
+  left: inherit; }
+
+.slider-main .swiper-button-prev svg, .slider-main .swiper-button-next svg {
+  transform: rotate(180deg); }
+
+.services-us .services-us__link-all svg, .services-us .blog-tpay__btn svg, .blog-tpay .services-us__link-all svg, .blog-tpay .blog-tpay__btn svg {
+  margin-right: 1rem;
+  margin-left: 0 !important;
+  transform: scaleX(-1); }
+
+.blog-tpay .blog-tpay__btn:hover svg {
+  margin-left: 0;
+  margin-right: 0.3rem; }
+
+.services-us .services-us__title-main .services-us__link-all:hover svg {
+  margin-left: 0;
+  margin-right: 0.3rem; }
+.services-us .services-us__bg {
+  right: -4px;
+  left: inherit; }
+.services-us .services-us__bg:before {
+  right: 0;
+  left: inherit;
+  -ms-transform: skewY(50deg) !important;
+  transform: skewY(50deg) !important; }
+.services-us .services-us__item svg {
+  transform: rotate(0deg) !important;
+  margin-left: 1.3rem;
+  margin-right: 0 !important;
+  right: -2.4px;
+  left: inherit; }
+.services-us .services-us__item .services-us__item-link {
+  margin-right: auto;
+  margin-left: 0 !important; }
+  .services-us .services-us__item .services-us__item-link svg {
+    transform: rotate(180deg) !important;
+    margin-right: 1rem !important;
+    margin-left: 0 !important;
+    width: 2rem;
+    height: 2rem; }
+.services-us .services-us__item-link:hover svg {
+  margin-right: 0.3rem !important; }
+
+.wallet .wallet__advantages svg, .wallet .about-tpay__item-sec svg, .wallet .download-app__attributes svg, .wallet .single-content ul svg, .about-tpay .wallet__advantages svg, .about-tpay .about-tpay__item-sec svg, .about-tpay .download-app__attributes svg, .about-tpay .single-content ul svg, .download-app .wallet__advantages svg, .download-app .about-tpay__item-sec svg, .download-app .download-app__attributes svg, .download-app .single-content ul svg, .single-blog .wallet__advantages svg, .single-blog .about-tpay__item-sec svg, .single-blog .download-app__attributes svg, .single-blog .single-content ul svg {
+  margin-left: 1.5rem;
+  margin-right: 0; }
+
+.wallet .wallet__btn-login svg, .wallet .features-tpay__btn svg, .features-tpay .wallet__btn-login svg, .features-tpay .features-tpay__btn svg {
+  margin-right: 5.5rem;
+  margin-left: 0;
+  transform: rotate(180deg); }
+
+.why-tpay-service .why-tpay-service__questions .accordion-item:before {
+  right: 0;
+  left: inherit; }
+
+.support .support__main .support__btn svg {
+  margin-left: 0;
+  transform: rotate(180deg); }
+
+.other-services .other-services__main .other-services__item .other-services__item-btn {
+  transform: scaleX(-1); }
+
+.blog-tpay__item .blog-tpay__footer .blog-tpay__item-btn i {
+  margin-left: 0 !important;
+  margin-right: 1.3rem; }
+  .blog-tpay__item .blog-tpay__footer .blog-tpay__item-btn i:before {
+    content: '\e843'; }
+
+.conversion .conversion__input button {
+  left: 1.5rem;
+  right: inherit !important; }
+  .conversion .conversion__input button i:before {
+    content: "\e843"; }
+
+.earn-money .earn-money__main .earn-money__btn svg {
+  transform: scaleX(-1);
+  width: 2rem;
+  margin-right: 5.5rem;
+  margin-left: 0 !important; }
+
+.site-footer .site-footer__top .site-footer__top-head .site-footer__item-main .site-footer__item-symbol li a svg {
+  transform: scaleX(-1);
+  margin-right: 0.6rem;
+  margin-left: 0; }
+.site-footer .site-footer__top .site-footer__top-head .site-footer__about-main .site-footer__about-title {
+  margin-right: 10.2rem;
+  margin-left: 0; }
+.site-footer .site-footer__top .site-footer__top-footer .site-footer__info li:not(:last-child) {
+  margin-left: 6.1rem;
+  margin-right: 0; }
+.site-footer .site-footer__top .site-footer__top-footer .site-footer__info li svg {
+  margin-left: 2.2rem;
+  margin-right: 0; }
+.site-footer .site-footer__top .site-footer__top-footer .site-footer__partners-imgs li:not(:last-child) {
+  margin-left: 4.1rem;
+  margin-right: 0; }
+.site-footer .site-footer__social li {
+  margin-right: 3.1rem;
+  margin-left: 0; }
+.site-footer .site-footer__bottom-sec .site-footer__bottom .site-footer__copy-right .site-footer__copy-right-text {
+  margin-right: 2.6rem;
+  margin-left: 0; }
+
+.blog__title-sec .blog__filter .blog__selected-item-main .blog__selected-item:before {
+  left: 1.9rem;
+  right: inherit; }
+
+.blog-article__sec .blog-article footer .blog-article__info--wide {
+  margin-left: 2.7rem;
+  margin-right: 0; }
+  .blog-article__sec .blog-article footer .blog-article__info--wide i {
+    margin-left: 1.3rem;
+    margin-right: 0; }
+.blog-article__sec .blog-article footer .blog-article__info--last-chld {
+  margin-right: auto;
+  margin-left: 0; }
+  .blog-article__sec .blog-article footer .blog-article__info--last-chld i {
+    margin-right: 1.3rem;
+    margin-left: 0;
+    transform: scaleX(-1); }
+.blog-article__sec .pagination .page-item {
+  margin-left: 2.2rem;
+  margin-right: 0; }
+
+.single-blog .about-author .about-author__main .about-author__img {
+  margin-left: 4.4rem; }
+.single-blog .about-author .about-author__main .about-author__content .about-author__info .about-author__article-send-main .about-author__article-send {
+  margin-left: 3rem;
+  margin-right: 0; }
+.single-blog .about-author .about-author__main .about-author__content .about-author__info .about-author__article-send-main .about-author__article-all svg {
+  margin-right: 1.2rem;
+  margin-left: 0;
+  transform: scaleX(-1); }
+.single-blog .about-author .about-author__main .about-author__content .about-author__info .about-author__social a {
+  margin-left: 3.1rem;
+  margin-right: 0; }
+.single-blog .article-head__title-main .article-head__info .article-head__author i, .single-blog .article-head__title-main .article-head__info .article-head__calender i, .single-blog .article-head__title-main .article-head__info .article-head__comment i {
+  margin-left: 1.7rem;
+  margin-right: 0; }
+.single-blog .single-content h2, .single-blog .single-content h4 {
+  padding-right: 1.8rem;
+  padding-left: 0; }
+  .single-blog .single-content h2:before, .single-blog .single-content h4:before {
+    right: 0; }
+.single-blog .single-content ol:before {
+  right: 4px;
+  left: inherit; }
+.single-blog .single-content .sell-crypto .sell-crypto__btn i {
+  margin-right: 2.8rem;
+  margin-left: 0;
+  transform: scaleX(-1); }
+.single-blog .single-content .sell-crypto .sell-crypto__btn:hover i {
+  margin-right: 2rem;
+  margin-left: 0; }
+.single-blog .about-article .about-article__right .about-article__right-top .about-article__rate-num {
+  margin-left: 2.3rem;
+  margin-right: 0; }
+.single-blog .about-article .about-article__left {
+  text-align: left; }
+
+.sign-up .sign-up__go-to-home a {
+  margin-right: auto;
+  margin-left: 0; }
+  .sign-up .sign-up__go-to-home a i {
+    margin-left: 1.6rem;
+    margin-right: 0; }
+
+.help-use .help-use__creat-wallet {
+  padding: 3rem 2.9rem 3rem 0; }
+.help-use .help-use__creat-wallet-btn svg {
+  transform: scaleX(-1); }
+
+@media (min-width: 768px) {
+  .site-header .site-header__bottom .header-menu {
+    margin-left: 1.3rem; }
+    .site-header .site-header__bottom .header-menu .header-menu_items li {
+      margin-right: 3.3rem;
+      margin-left: 0 !important; }
+    .site-header .site-header__bottom .header-menu .header-menu_items a i {
+      margin-right: 1rem;
+      transform: rotate(0deg) !important; }
+    .site-header .site-header__bottom .header-menu .header-menu_items a:hover i {
+      transform: rotate(-90deg) !important; }
+  .site-header .site-header__top .site-header__left .user-area-btn i {
+    margin-left: 0.5rem;
+    margin-right: 1rem; }
+  .site-header .site-header__top .site-header__right .site-header__logo {
+    text-align: right; }
+    .site-header .site-header__top .site-header__right .site-header__logo:after {
+      right: -8rem; }
+    .site-header .site-header__top .site-header__right .site-header__logo:before {
+      right: -8.7rem; }
+  .site-header .site-header__top .site-header__right .site-header__logo:hover:before {
+    right: -8rem;
+    left: inherit; }
+
+  .wallet .wallet__side-img {
+    left: inherit;
+    right: -16.8rem;
+    transform: scaleX(1); } }
+.page-404 .page-404__random-service i {
+  margin-right: 1.8rem;
+  margin-left: 0; }
+.page-404 .page-404__main .page-404__input .page-404__input-btn {
+  left: 2.5rem;
+  right: inherit; }
+.page-404 .page-404__main .page-404__links a:not(:last-of-type):after {
+  left: -4rem;
+  right: inherit; }
+
+.faq-content .accordion .accordion-button {
+  padding: 11px 50px 10px 20px;
+  text-align: right; }
+  .faq-content .accordion .accordion-button:before {
+    right: 2rem;
+    left: inherit; }
+  .faq-content .accordion .accordion-button:after {
+    right: 2rem;
+    left: inherit; }
+
+.our-team .our-team__title-main .our-team__employment i {
+  margin-right: 1.4rem;
+  margin-left: 0; }
+.our-team .our-team__slider .our-team__slide-main .our-team__slide-name, .our-team .our-team__slider .our-team__slide-main .our-team__slide-role {
+  right: 1.9rem;
+  left: inherit; }
+
+@media (min-width: 992px) {
+  .page-404 .page-404__random-service {
+    left: 19rem;
+    right: inherit; }
+  .page-404 .page-404__main .page-404__title {
+    margin-top: auto; }
+  .page-404 .page-404__main .page-404__sub-title {
+    margin-bottom: 8rem; }
+
+  .sign-up--login .sign-up__img img {
+    left: -4.4rem;
+    right: inherit; }
+
+  .single-blog .article-head__title-main .article-head__info .article-head__author, .single-blog .article-head__title-main .article-head__info .article-head__calender {
+    margin-left: 4.5rem;
+    margin-right: 0; }
+
+  .accessorys .accessorys__img {
+    left: 10rem;
+    right: inherit; }
+
+  .why-tpay .why-tpay__main .why-tpay__item.active .why-tpay__title-sec:before {
+    top: 3.5rem;
+    bottom: 2.6rem;
+    width: 1px;
+    left: 1.5rem;
+    right: inherit; }
+  .why-tpay .why-tpay__main .why-tpay__item.active .why-tpay__item-description {
+    margin-left: 3.5rem;
+    margin-right: 0; }
+
+  .about-tpay .about-tpay__img {
+    right: -60%;
+    left: inherit;
+    transform: scaleX(1); }
+  .about-tpay .about-tpay__main {
+    margin-right: 16.5rem;
+    margin-left: 0; }
+    .about-tpay .about-tpay__main .about-tpay__item-sec {
+      padding: 37px 42px 24px 0 !important; }
+
+  .support .support__btn svg {
+    margin-right: 5.5rem !important; }
+
+  .features-tpay:before {
+    right: 0;
+    left: inherit; }
+
+  .conversion .conversion__img {
+    left: 0;
+    right: inherit; }
+
+  .download-app .download-app__right {
+    margin-left: 30rem;
+    margin-right: 0; }
+  .download-app .download-app__left figure {
+    left: -13.3rem;
+    right: inherit; }
+
+  .site-footer .site-footer__top .site-footer__top-head {
+    margin-right: 7rem;
+    margin-left: 0; }
+    .site-footer .site-footer__top .site-footer__top-head .site-footer__about-main .site-footer__logo-big {
+      right: -20.6rem;
+      left: inherit;
+      transform: scaleX(1); }
+  .site-footer .site-footer__top .site-footer__top-footer .site-footer__info {
+    margin-right: 2rem;
+    margin-left: 0; }
+  .site-footer .site-footer__social li.active .site-footer__social-text {
+    margin-right: 1.2rem;
+    margin-left: 1.5rem; }
+  .site-footer .site-footer__social li.active .site-footer__social-arrow {
+    transform: scaleX(-1); } }
+@media (max-width: 992px) {
+  .page-404 .page-404__random-service {
+    left: 20%;
+    right: inherit; }
+  .page-404 .page-404__main .page-404__title {
+    margin-top: 10rem; }
+  .page-404 .page-404__main .page-404__sub-title {
+    margin-bottom: 5rem; }
+
+  .site-header .site-header__bottom .site-header__right .site-header__logo:after {
+    position: absolute;
+    left: 50%;
+    transform: translateX(50%); }
+  .site-header .site-header__bottom .header-menu .header-menu_items li {
+    margin-right: 1.3rem; }
+
+  .site-footer .site-footer__top .site-footer__top-head .site-footer__logo-big {
+    right: -16.6rem;
+    left: inherit; } }
+@media (max-width: 1200px) {
+  .why-tpay .why-tpay__main .why-tpay__title-sec {
+    padding: 36px 19px 36px 25px; } }
+@media (min-width: 1200px) {
+  .why-tpay.active .why-tpay__title-sec {
+    padding: 36px 54px 36px 39px; }
+
+  .why-tpay .why-tpay__main .active .why-tpay__title-sec {
+    padding: 36px 30px 33px 48px; }
+  .why-tpay .why-tpay__main .why-tpay__title-sec {
+    padding: 36px 35px 35px 37px; } }
+
+/*# sourceMappingURL=rtl.css.map */
