@@ -98,6 +98,8 @@ $(document).ready(function () {
                 spaceBetween: 30,
             },
         }
+
+        
     });
 
     //humburger menu
@@ -106,6 +108,14 @@ $(document).ready(function () {
 
     })
 
+
+                $('.header-search-bar').on('submit', function(e) {
+                e.preventDefault(); // Prevent default form submission
+
+                // Redirect to the search page
+                window.location.href = 'https://parvin-noori.github.io/tipay/search';
+            });
+    
     //close responsive menu
     $(".mega-menu-site-responsive .close").on("click", function () {
         $('.mega-menu-site-responsive').removeClass('active')
@@ -168,10 +178,5 @@ $window.scroll(function () {
 });
 
          
-            $('form.header-search-bar').on('submit', function(e) {
-                e.preventDefault(); // Prevent default form submission
 
-                // Redirect to the search page
-                window.location.href = 'https://parvin-noori.github.io/tipay/search';
-            });
 
