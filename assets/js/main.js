@@ -167,3 +167,11 @@ $window.scroll(function () {
     toolTip.toggleClass('tool-tip__active', $window.scrollTop() >= elTop);
 });
 
+         
+            $('form.header-search-bar').on('submit', function(e) {
+                e.preventDefault(); // Prevent default form submission
+
+                // Redirect to the search page
+                window.location.href = 'https://parvin-noori.github.io/tipay/search';
+            });
+
