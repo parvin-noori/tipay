@@ -7,7 +7,7 @@ Technologies Used
     Swiper: Implements responsive and touch-friendly sliders.
     AOS Animation: Adds smooth animations on scroll.
     jQuery: Facilitates DOM manipulation and event handling.
-    Font Awesome: Integrates scalable vector icons.
+    Feather Icon: Integrates scalable vector icons.
 
 Features
 
