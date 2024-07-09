@@ -19,6 +19,6 @@ Features
 
 Demo
 
-Check out the live demo [here](https://parvin-noori.github.io/tipay/).
+Check out the live demo [here](https://parvin-noori.github.io/tipay/)
 
 ![demo](https://github.com/parvin-noori/tipay/blob/master/smartmockups_tipay.jpg)
