@@ -1,21 +1,21 @@
-Tipay Website Redesign
+## Tipay Website Redesign
 
 This project is a practice redevelopment of the Tipay website, aimed at enhancing frontend development skills using popular technologies and frameworks.
 Technologies Used
 
-    Bootstrap: Ensures a responsive, mobile-first design.
-    Swiper: Implements responsive and touch-friendly sliders.
-    AOS Animation: Adds smooth animations on scroll.
-    jQuery: Facilitates DOM manipulation and event handling.
-    Feather Icon: Integrates scalable vector icons.
+- Bootstrap: Ensures a responsive, mobile-first design.
+- Swiper: Implements responsive and touch-friendly sliders.
+- AOS Animation: Adds smooth animations on scroll.
+- jQuery: Facilitates DOM manipulation and event handling.
+- Feather Icon: Integrates scalable vector icons.
 
-Features
+ **Features**
 
-    Responsive design suitable for various screen sizes.
-    Interactive sliders and animations for enhanced user experience.
-    Integration of scalable icons for improved visual appeal.
-    Utilization of jQuery for seamless DOM manipulation.
-    Supports both RTL (right-to-left) and LTR (left-to-right) text directions for accessibility.
+- Responsive design suitable for various screen sizes.
+- Interactive sliders and animations for enhanced user experience.
+- Integration of scalable icons for improved visual appeal.
+- Utilization of jQuery for seamless DOM manipulation.
+- Supports both RTL (right-to-left) and LTR (left-to-right) text directions for accessibility.
 
 Demo
 
